@@ -1,0 +1,9 @@
+.env
+mysql-data
+secrets
+vendor
+*/vendor
+*/**/vendor
+node_modules
+*/node_modules
+*/**/node_modules
